@@ -2,7 +2,7 @@
 I am Jayofelony, Jeroen Oudshoorn, current maintainer of the Pwnagotchi project.
 
 ## About me 🌍️
-I live in Fryslân, a rural province in The Netherlands. I'm 38 years old married and have 3 children.
+I live in Fryslân, a rural province in The Netherlands. I'm 38 years old, married and have 3 children.
 
 ## Work 💼
 I am a trained car mechanic and are now employed as a Wegenwacht with the ANWB in The Netherlands.
